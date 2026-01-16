@@ -5,5 +5,12 @@
   "main": "index.js",
   "repository": "https://github.com/maheshrestha/KCK",
   "author": "Mahesh shrestha <maheshrestha_2007@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@nestjs/common": "^11.1.12",
+    "@nestjs/core": "^11.1.12",
+    "@nestjs/platform-express": "^11.1.12",
+    "reflect-metadata": "^0.2.2",
+    "rxjs": "^7.8.2"
+  }
 }
