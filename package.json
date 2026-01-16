@@ -1,0 +1,9 @@
+{
+  "name": "kitchen-coordination-kit",
+  "version": "1.0.0",
+  "description": "Kitchen coordination kit",
+  "main": "index.js",
+  "repository": "https://github.com/maheshrestha/KCK",
+  "author": "Mahesh shrestha <maheshrestha_2007@hotmail.com>",
+  "license": "MIT"
+}
